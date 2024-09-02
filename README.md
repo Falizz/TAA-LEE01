@@ -1,7 +1,7 @@
 
-# TÉCNICAS DE PROGRAMAÇÃO E ANÁLISE DE ALGORITMOS
+## TÉCNICAS DE PROGRAMAÇÃO E ANÁLISE DE ALGORITMOS
 
-## LEE01 - Lista de Exercícios Extracurricular 01
+### LEE01 - Lista de Exercícios Extracurricular 01
 
 Este repositório contém os códigos utilizados na resolução dos problemas propostos na LEE01.
 
