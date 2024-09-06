@@ -11,7 +11,7 @@ Este repositório contém os códigos utilizados na resolução dos problemas pr
 - **C - É Primo ou Não É:** [Primo.c](./LEE01-TAA/Primo.c)
 - **D - Divisibilidade por 3:** [DivisibilidadePor3.c](./LEE01-TAA/DivisibilidadePor3.c)
 
-### Enunciado dos Problemas:
+### Explicando os exercícios:
 
 #### A - Número Faltante
 
